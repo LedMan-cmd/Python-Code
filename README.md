@@ -1,2 +1,3 @@
 # Python-Code
-Python Code for my testing
+Python Code for testing differenct methods and programs
+# 
